@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=ACDC_Flyback.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ACDC_Flyback.SchDoc|FileName=DCDC_Buck.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ACDC_Flyback.SchDoc|FileName=PowerSupply_top.SchDoc|SheetNumber=3
