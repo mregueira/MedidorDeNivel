@@ -1,0 +1,170 @@
+Added Component: Designator=C8_ACDC(1206-CAP-TDK)
+Added Component: Designator=CDD_ACDC(1210-CAP-TDK)
+Added Component: Designator=CIN2_ACDC(CAP200RP)
+Added Component: Designator=CIN_ACDC(CAP200RP)
+Added Component: Designator=CIN_DCDC(CAP100RP)
+Added Component: Designator=COUT_ACDC(CAP200RP)
+Added Component: Designator=COUT_DCDC(CAP100RP)
+Added Component: Designator=CSN_ACDC(1206-CAP-TDK)
+Added Component: Designator=D1_DCDC(DO201-AD)
+Added Component: Designator=D2_ACDC(DO-214AC-SMA)
+Added Component: Designator=D3_ACDC(DO-214AC-SMA)
+Added Component: Designator=DAC_ACDC(HD06 - MiniDIP)
+Added Component: Designator=DSN_ACDC(DO-214AC-SMA)
+Added Component: Designator=J1(BORNERA2)
+Added Component: Designator=J2(BORNERA2)
+Added Component: Designator=L1_ACDC(RL187-471J-RC)
+Added Component: Designator=L1_DCDC(CLF7045NIT-470M-D)
+Added Component: Designator=Q1_ACDC(STD4NK80Z-1)
+Added Component: Designator=R1_DCDC(0805-RES-PANASONIC)
+Added Component: Designator=R2A_DCDC(0805-RES-PANASONIC)
+Added Component: Designator=R2B_DCDC(0805-RES-PANASONIC)
+Added Component: Designator=RBLD_ACDC(2010-RES-PANASONIC)
+Added Component: Designator=RCS_ACDC(1206-RES-PANASONIC)
+Added Component: Designator=RDD_ACDC(0402-RES-PANASONIC)
+Added Component: Designator=RFBB_ACDC(0201-RES-PANASONIC)
+Added Component: Designator=RFBBx_ACDC(0402-RES-PANASONIC)
+Added Component: Designator=RFBT_ACDC(0402-RES-PANASONIC)
+Added Component: Designator=RG1_ACDC(1206-RES-PANASONIC)
+Added Component: Designator=RG2_ACDC(0805-RES-PANASONIC)
+Added Component: Designator=RI_ACDC(1206-RES-PANASONIC)
+Added Component: Designator=RLC_ACDC(0402-RES-PANASONIC)
+Added Component: Designator=RSN2_ACDC(0402-RES-PANASONIC)
+Added Component: Designator=RSN_ACDC(2512-RES-PANASONIC)
+Added Component: Designator=RT1_ACDC(0805-RES-PANASONIC)
+Added Component: Designator=RT2_ACDC(0805-RES-PANASONIC)
+Added Component: Designator=RT3_ACDC(0805-RES-PANASONIC)
+Added Component: Designator=T1_ACDC(750312723)
+Added Component: Designator=TP1(534-5280)
+Added Component: Designator=TP2(534-5280)
+Added Component: Designator=TP3(534-5280)
+Added Component: Designator=TP4(534-5280)
+Added Component: Designator=U1_ACDC(TI-SOT-23-DBV0006A)
+Added Component: Designator=U1_DCDC(TI-TO-263-KTT)
+Added Pin To Net: NetName=GND Pin=C8_ACDC-2
+Added Pin To Net: NetName=GND Pin=CIN_DCDC-2
+Added Pin To Net: NetName=GND Pin=COUT_ACDC-2
+Added Pin To Net: NetName=GND Pin=COUT_DCDC-2
+Added Pin To Net: NetName=GND Pin=D1_DCDC-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=R1_DCDC-1
+Added Pin To Net: NetName=GND Pin=RBLD_ACDC-1
+Added Pin To Net: NetName=GND Pin=T1_ACDC-6
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=U1_DCDC-3
+Added Pin To Net: NetName=GND Pin=U1_DCDC-5
+Added Pin To Net: NetName=GND Pin=U1_DCDC-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCDD_ACDC_2 Pin=CDD_ACDC-2
+Added Pin To Net: NetName=NetCDD_ACDC_2 Pin=RDD_ACDC-2
+Added Pin To Net: NetName=NetCDD_ACDC_2 Pin=RT3_ACDC-1
+Added Pin To Net: NetName=NetCDD_ACDC_2 Pin=U1_ACDC-2
+Added Net: Name=NetCDD_ACDC_2
+Added Pin To Net: NetName=NetCIN2_ACDC_1 Pin=CIN2_ACDC-1
+Added Pin To Net: NetName=NetCIN2_ACDC_1 Pin=CSN_ACDC-1
+Added Pin To Net: NetName=NetCIN2_ACDC_1 Pin=L1_ACDC-2
+Added Pin To Net: NetName=NetCIN2_ACDC_1 Pin=RSN_ACDC-1
+Added Pin To Net: NetName=NetCIN2_ACDC_1 Pin=RT1_ACDC-2
+Added Pin To Net: NetName=NetCIN2_ACDC_1 Pin=T1_ACDC-5
+Added Net: Name=NetCIN2_ACDC_1
+Added Pin To Net: NetName=NetCIN_ACDC_1 Pin=CIN_ACDC-1
+Added Pin To Net: NetName=NetCIN_ACDC_1 Pin=DAC_ACDC-2
+Added Pin To Net: NetName=NetCIN_ACDC_1 Pin=L1_ACDC-1
+Added Net: Name=NetCIN_ACDC_1
+Added Pin To Net: NetName=NetCSN_ACDC_2 Pin=CSN_ACDC-2
+Added Pin To Net: NetName=NetCSN_ACDC_2 Pin=RSN2_ACDC-1
+Added Pin To Net: NetName=NetCSN_ACDC_2 Pin=RSN_ACDC-2
+Added Net: Name=NetCSN_ACDC_2
+Added Pin To Net: NetName=NetD1_DCDC_2 Pin=D1_DCDC-2
+Added Pin To Net: NetName=NetD1_DCDC_2 Pin=L1_DCDC-1
+Added Pin To Net: NetName=NetD1_DCDC_2 Pin=U1_DCDC-1
+Added Net: Name=NetD1_DCDC_2
+Added Pin To Net: NetName=NetD2_ACDC_1 Pin=D2_ACDC-1
+Added Pin To Net: NetName=NetD2_ACDC_1 Pin=T1_ACDC-9
+Added Net: Name=NetD2_ACDC_1
+Added Pin To Net: NetName=NetD3_ACDC_1 Pin=D3_ACDC-1
+Added Pin To Net: NetName=NetD3_ACDC_1 Pin=RFBT_ACDC-2
+Added Pin To Net: NetName=NetD3_ACDC_1 Pin=T1_ACDC-1
+Added Net: Name=NetD3_ACDC_1
+Added Pin To Net: NetName=NetD3_ACDC_2 Pin=D3_ACDC-2
+Added Pin To Net: NetName=NetD3_ACDC_2 Pin=RDD_ACDC-1
+Added Net: Name=NetD3_ACDC_2
+Added Pin To Net: NetName=NetDAC_ACDC_1 Pin=DAC_ACDC-1
+Added Pin To Net: NetName=NetDAC_ACDC_1 Pin=RI_ACDC-1
+Added Net: Name=NetDAC_ACDC_1
+Added Pin To Net: NetName=NetDSN_ACDC_1 Pin=DSN_ACDC-1
+Added Pin To Net: NetName=NetDSN_ACDC_1 Pin=Q1_ACDC-2
+Added Pin To Net: NetName=NetDSN_ACDC_1 Pin=T1_ACDC-2
+Added Net: Name=NetDSN_ACDC_1
+Added Pin To Net: NetName=NetDSN_ACDC_2 Pin=DSN_ACDC-2
+Added Pin To Net: NetName=NetDSN_ACDC_2 Pin=RSN2_ACDC-2
+Added Net: Name=NetDSN_ACDC_2
+Added Pin To Net: NetName=NetJ2_1 Pin=DAC_ACDC-3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=TP4-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=RI_ACDC-2
+Added Pin To Net: NetName=NetJ2_2 Pin=TP3-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetQ1_ACDC_1 Pin=Q1_ACDC-1
+Added Pin To Net: NetName=NetQ1_ACDC_1 Pin=RG1_ACDC-2
+Added Pin To Net: NetName=NetQ1_ACDC_1 Pin=RG2_ACDC-2
+Added Net: Name=NetQ1_ACDC_1
+Added Pin To Net: NetName=NetQ1_ACDC_3 Pin=Q1_ACDC-3
+Added Pin To Net: NetName=NetQ1_ACDC_3 Pin=RCS_ACDC-2
+Added Pin To Net: NetName=NetQ1_ACDC_3 Pin=RLC_ACDC-2
+Added Net: Name=NetQ1_ACDC_3
+Added Pin To Net: NetName=NetR1_DCDC_2 Pin=R1_DCDC-2
+Added Pin To Net: NetName=NetR1_DCDC_2 Pin=R2A_DCDC-1
+Added Pin To Net: NetName=NetR1_DCDC_2 Pin=R2B_DCDC-1
+Added Pin To Net: NetName=NetR1_DCDC_2 Pin=U1_DCDC-4
+Added Net: Name=NetR1_DCDC_2
+Added Pin To Net: NetName=NetRFBB_ACDC_2 Pin=RFBB_ACDC-2
+Added Pin To Net: NetName=NetRFBB_ACDC_2 Pin=RFBBx_ACDC-2
+Added Pin To Net: NetName=NetRFBB_ACDC_2 Pin=RFBT_ACDC-1
+Added Pin To Net: NetName=NetRFBB_ACDC_2 Pin=U1_ACDC-6
+Added Net: Name=NetRFBB_ACDC_2
+Added Pin To Net: NetName=NetRG1_ACDC_1 Pin=RG1_ACDC-1
+Added Pin To Net: NetName=NetRG1_ACDC_1 Pin=U1_ACDC-3
+Added Net: Name=NetRG1_ACDC_1
+Added Pin To Net: NetName=NetRLC_ACDC_1 Pin=RLC_ACDC-1
+Added Pin To Net: NetName=NetRLC_ACDC_1 Pin=U1_ACDC-4
+Added Net: Name=NetRLC_ACDC_1
+Added Pin To Net: NetName=NetRT1_ACDC_1 Pin=RT1_ACDC-1
+Added Pin To Net: NetName=NetRT1_ACDC_1 Pin=RT2_ACDC-2
+Added Net: Name=NetRT1_ACDC_1
+Added Pin To Net: NetName=NetRT2_ACDC_1 Pin=RT2_ACDC-1
+Added Pin To Net: NetName=NetRT2_ACDC_1 Pin=RT3_ACDC-2
+Added Net: Name=NetRT2_ACDC_1
+Added Pin To Net: NetName=RTN Pin=C8_ACDC-1
+Added Pin To Net: NetName=RTN Pin=CDD_ACDC-1
+Added Pin To Net: NetName=RTN Pin=CIN2_ACDC-2
+Added Pin To Net: NetName=RTN Pin=CIN_ACDC-2
+Added Pin To Net: NetName=RTN Pin=DAC_ACDC-4
+Added Pin To Net: NetName=RTN Pin=RCS_ACDC-1
+Added Pin To Net: NetName=RTN Pin=RFBB_ACDC-1
+Added Pin To Net: NetName=RTN Pin=RFBBx_ACDC-1
+Added Pin To Net: NetName=RTN Pin=RG2_ACDC-1
+Added Pin To Net: NetName=RTN Pin=T1_ACDC-4
+Added Pin To Net: NetName=RTN Pin=U1_ACDC-5
+Added Net: Name=RTN
+Added Pin To Net: NetName=VIN Pin=CIN_DCDC-1
+Added Pin To Net: NetName=VIN Pin=COUT_ACDC-1
+Added Pin To Net: NetName=VIN Pin=D2_ACDC-2
+Added Pin To Net: NetName=VIN Pin=RBLD_ACDC-2
+Added Pin To Net: NetName=VIN Pin=U1_DCDC-2
+Added Net: Name=VIN
+Added Pin To Net: NetName=VOUT Pin=COUT_DCDC-1
+Added Pin To Net: NetName=VOUT Pin=J1-1
+Added Pin To Net: NetName=VOUT Pin=L1_DCDC-2
+Added Pin To Net: NetName=VOUT Pin=R2A_DCDC-2
+Added Pin To Net: NetName=VOUT Pin=R2B_DCDC-2
+Added Pin To Net: NetName=VOUT Pin=TP1-1
+Added Net: Name=VOUT
+Added Class: Name=ACDC
+Added Class: Name=DCDC
+Added Class: Name=PowerSupply_top
+Added Room: Name=ACDC
+Added Room: Name=DCDC
+Added Room: Name=PowerSupply_top
