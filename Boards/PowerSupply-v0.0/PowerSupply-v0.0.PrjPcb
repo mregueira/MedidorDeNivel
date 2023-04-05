@@ -133,6 +133,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLNHUMIM
 
+[Document6]
+DocumentPath=DOC\JLCPCB-2Layer.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=5A2E5D00-AD17-48D1-B1D6-FBC6ED825713
+Description=For Assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [Parameter1]
 Name=ProjectTitle
 Value=PowerSupply-v0.0
