@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=ACDC_Flyback.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=ACDC_Flyback.SchDoc|FileName=DCDC_Buck.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=ACDC_Flyback.SchDoc|FileName=PowerSupply_top.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=PowerSupply_top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PowerSupply_top.SchDoc|Designator=ACDC|SchDesignator=ACDC|FileName=ACDC_Flyback.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ACDC_Flyback.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PowerSupply_top.SchDoc|Designator=DCDC|SchDesignator=DCDC|FileName=DCDC_Buck.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DCDC_Buck.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=PowerSupply_top.SchDoc|FileName=fuelgauge.SchDoc|SheetNumber=4
