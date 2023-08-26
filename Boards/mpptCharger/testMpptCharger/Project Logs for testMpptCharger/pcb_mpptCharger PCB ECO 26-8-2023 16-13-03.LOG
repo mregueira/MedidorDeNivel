@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=NetD3_1 Pin=D5-1
-Added Pin To Net: NetName=VBAT Pin=D5-2
-Added Pin To Net: NetName=NetD3_1 Pin=D5B-1
-Added Pin To Net: NetName=VBAT Pin=D5B-2
-Added Member To Class: ClassName=sq_mpptCharger Member=Component D5B DIODO SCHOTTKY
-Added Member To Class: ClassName=sq_mpptCharger Member=Component D5 CMSH3-40MA

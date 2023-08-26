@@ -6,5 +6,5 @@ Boards\PowerSupply-v0.0\PCB\History
 Boards\PowerSupply-v0.0\PCB\__Previews
 Boards\PowerSupply-v0.0\*.PrjPcbStructure
 
-Boards\mpptCharger\testMpptCharger\History
-Boards\mpptCharger\testMpptCharger\__Previews
+Boards\mpptCharger\testMpptCharger\History*
+Boards\mpptCharger\testMpptCharger\__Previews*
