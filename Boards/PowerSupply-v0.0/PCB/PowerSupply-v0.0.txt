@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Marcelo\Desktop\MedidorDeNivel\MedidorDeNivel\Boards\PowerSupply-v0.0\PCB\PowerSupply-v0.0.PcbDoc
+Date         : 4/4/2023
+Time         : 20:46:46
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 71
+    Connections routed, 71
+    Connections remaining, 0
+count : 4
