@@ -98,7 +98,7 @@ Configuration4_Name6=VisibleOrder_Flat
 Configuration4_Item6=Comment=120|JLCPart=100|Designator=120|Footprint=120|Quantity=120
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Marcelo\Desktop\MedidorDeNivel\MedidorDeNivel\Boards\PowerSupply-v0.0\Project Outputs for PowerSupply-v0.0\PowerSupply-v0.0\
+OutputFilePath2=C:\Users\marce\OneDrive\Desktop\GitHub Repos\Medidor de Nivel - General\BatteryTelemetry\MedidorDeNivel\Boards\mpptCharger\testMpptCharger\Project Outputs for testMpptCharger\testMpptCharger\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for testMpptCharger
 OutputPathMedia2==ProjectName
@@ -139,7 +139,7 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Marcelo\Desktop\MedidorDeNivel\MedidorDeNivel\Boards\PowerSupply-v0.0\Project Outputs for PowerSupply-v0.0\PowerSupply-v0.0\
+RelativeOutputPath2=C:\Users\marce\OneDrive\Desktop\GitHub Repos\Medidor de Nivel - General\BatteryTelemetry\MedidorDeNivel\Boards\mpptCharger\testMpptCharger\Project Outputs for testMpptCharger\testMpptCharger\
 OpenOutputs2=0
 AddToProject2=1
 TimestampFolder2=0
