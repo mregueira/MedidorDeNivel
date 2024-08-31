@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=For Assembly
 
 [Preferences]
 PrefsVaultGUID=
@@ -82,6 +83,31 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDBODXWB
+
+[Document3]
+DocumentPath=DOC\jobs\JLCPCB-4Layer.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=416561cd-f006-4ae2-9f3c-278bb2cca58a
+Description=For Assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for WaterLevelControl-v0.0\Design Rule Check - WLC-v0.html
